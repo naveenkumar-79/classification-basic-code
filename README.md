@@ -52,3 +52,6 @@ Visualize decision boundaries
 Deploy model using Flask / Streamlit
 Add complete pipeline using scikit-learn
 
+## 🧑‍🎓 Author
+P. Naveen Kumar 
+Email: puppalanaveenkumar11@gmail.com
